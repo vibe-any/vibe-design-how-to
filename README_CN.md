@@ -10,6 +10,8 @@
 
 `vibe-design` 把设计方向沉淀成可复用的样式提示词，让人类和 AI 编码工具都可以稳定复用同一套视觉风格。
 
+<img width="3208" height="1732" alt="4004edd47da2b0284477e991d48dce38" src="https://github.com/user-attachments/assets/bde6c62d-818f-4d23-a64a-2f4af54001a9" />
+
 它适合这些场景：
 
 - 生成具有明确视觉风格的 UI
