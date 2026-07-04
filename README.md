@@ -10,6 +10,8 @@ This repository is the user guide for the `vibe-design` website at [design.vibec
 
 `vibe-design` turns design direction into reusable style prompts that people and AI coding tools can apply consistently.
 
+<img width="3208" height="1732" alt="4004edd47da2b0284477e991d48dce38" src="https://github.com/user-attachments/assets/bde6c62d-818f-4d23-a64a-2f4af54001a9" />
+
 It is useful when you want to:
 
 - generate a UI in a recognizable visual style
